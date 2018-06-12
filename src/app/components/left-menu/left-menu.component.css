@@ -1,0 +1,23 @@
+.list-group a:hover{
+    text-shadow: 1px 1px 10px #E98074;
+}
+
+.bg-left{
+    padding-top: 40px;
+    padding-bottom: 70px;
+    background-color: #EAE7DC;
+}
+
+.list-group-item {
+    z-index: 2;
+    color: #E85A4F;
+    background-color: #EAE7DC;
+    border-color: #EAE7DC;
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: #EAE7DC;
+    background-color: #E98074;
+    border-color: #E85A4F;
+}

@@ -1,0 +1,4 @@
+.alert.form-control, .form-touched, .form-invalid{
+    padding: 5px;
+    width: 500px;
+}

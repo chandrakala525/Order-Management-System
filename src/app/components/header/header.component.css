@@ -1,0 +1,13 @@
+a img{
+    max-width: 20%;
+}
+
+nav, button, .navbar-brand{
+    background-color: #EAE7DC !important;
+    color: #E85A4F !important;
+    border: 1px solid #EAE7DC !important;
+}
+
+nav.navbar{
+    border-bottom: #E85A4F solid 1px !important;
+}

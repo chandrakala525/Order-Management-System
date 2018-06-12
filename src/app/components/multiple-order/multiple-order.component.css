@@ -1,0 +1,58 @@
+*{
+    color: #8E8D8A;
+}
+
+.mulOrderNumDiv{
+    margin: 50px 0 20px 0;
+}
+
+select option:hover{
+    background-color: #E98074 !important;
+    color: #dee2e6 !important;
+}
+
+button{
+    margin-top: 15px;
+    background-color: #E98074;
+    border: solid 1px #E98074;
+    color: #dee2e6;
+}
+
+button:hover{
+    background-color: #dee2e6 !important;
+    border: solid 1px #E85A4F !important;
+    color: #E85A4F !important;
+}
+
+h3{
+    background-color: #E98074;
+    color: #dee2e6;
+    padding: 8px 0;
+}
+
+.mulorderlog{
+    margin: 0 15px;
+    margin-top: -9px;
+}
+
+.mulOrderSet{
+    margin-bottom: 15px;
+}
+
+.mulOrderSet label{
+    padding: 4px 0 0 25px;
+}
+
+.mulOrderSet input{
+    margin: 0 30px;
+}
+
+.mulorderlog .row div{
+    padding: 10px 5px;
+    height: 50px;
+}
+
+.pagination li a:hover{
+    color: #E85A4F;
+    background-color: #D8c384;
+}

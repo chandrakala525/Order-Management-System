@@ -1,0 +1,51 @@
+*{
+    color: #8E8D8A;
+}
+
+button{
+    background-color: #E98074;
+    border: solid 1px #E98074;
+    color: #dee2e6;
+}
+
+button:hover{
+    background-color: #dee2e6 !important;
+    border: solid 1px #E85A4F !important;
+    color: #E85A4F !important;
+}
+
+.order-det{
+    width: 100%;
+    margin-left: 0px;
+    margin-top: -10px;
+}
+
+h3{
+    background-color: #E98074;
+    color: #dee2e6;
+    padding: 8px 0;
+}
+
+h4{
+    border: 1px solid #dee2e6;
+    margin: -1px -16px;
+    padding: 5px 0;
+}
+
+.orderNumDiv{
+    margin: 50px 0 20px 0;
+}
+
+.content div{
+    margin: 10px 0;
+}
+
+.orderlog{
+    margin: 0 15px;
+    margin-top: -9px;
+}
+
+.orderlog .row div{
+    padding: 10px 5px;
+    height: 50px;
+}
